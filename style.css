@@ -101,6 +101,7 @@ h1 {
 }
 .gallery-row{
     display: flex;
+    margin-top: 3%;
 }
 .gallery-row img{
 width: 24%;
@@ -145,15 +146,18 @@ padding: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: palevioletred;
+    background: #8b4cf7;
     padding: 25px;
     
 }
+.email-box{
+    height: 30px;
+}
 .submit-button{
     color: white;
-    background-color: orangered;
+    background-color: #ce1acb;
     border: none;
-    padding: 2px;
+    padding: 10px;
 }
 footer{
     background-color: black;
