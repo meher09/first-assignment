@@ -71,8 +71,8 @@ h1 {
 }
 
 .active {
-    border: 2px red solid;
-    background-color: aquamarine;
+    border: 2px #8b4cf7 solid;
+    background-color: #e0c6ff;
 }
 
 .input-amount {
@@ -85,10 +85,10 @@ h1 {
 .donate-button {
     text-decoration: none;
     color: white;
-    background-color: orangered;
+    background-color: #ce1acb;
     border: 2px white solid;
-    padding: 8px;
-    border-radius: 5px;
+    padding: 15px;
+    border-radius: 7px;
 }
 .donate-plan{
     text-align: center;
@@ -132,10 +132,10 @@ padding: 5px;
     background-color: aliceblue;
 }
 .shelter{
-    background-color: rgb(16, 121, 121);
+    background-color: #e0c6ff;
 }
 .medicine{
-    background-color: pink;
+    background-color: #edc1ff;
 }
 .update{
     text-align: center;
@@ -159,6 +159,6 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
 
 }
